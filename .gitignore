@@ -1,0 +1,7 @@
+#ignore these files extension
+
+*.dll
+*.o
+*.so
+*.txt
+*.log
